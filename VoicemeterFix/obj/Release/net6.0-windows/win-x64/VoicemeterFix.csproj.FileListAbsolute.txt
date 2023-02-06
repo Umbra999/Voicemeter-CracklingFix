@@ -1,0 +1,15 @@
+D:\Github Repos\Voicemeter-CracklingFix\VoicemeterFix\bin\Release\net6.0-windows\win-x64\VoicemeterFix.exe
+D:\Github Repos\Voicemeter-CracklingFix\VoicemeterFix\bin\Release\net6.0-windows\win-x64\VoicemeterFix.deps.json
+D:\Github Repos\Voicemeter-CracklingFix\VoicemeterFix\bin\Release\net6.0-windows\win-x64\VoicemeterFix.runtimeconfig.json
+D:\Github Repos\Voicemeter-CracklingFix\VoicemeterFix\bin\Release\net6.0-windows\win-x64\VoicemeterFix.dll
+D:\Github Repos\Voicemeter-CracklingFix\VoicemeterFix\bin\Release\net6.0-windows\win-x64\VoicemeterFix.pdb
+D:\Github Repos\Voicemeter-CracklingFix\VoicemeterFix\obj\Release\net6.0-windows\win-x64\VoicemeterFix.csproj.AssemblyReference.cache
+D:\Github Repos\Voicemeter-CracklingFix\VoicemeterFix\obj\Release\net6.0-windows\win-x64\VoicemeterFix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\Voicemeter-CracklingFix\VoicemeterFix\obj\Release\net6.0-windows\win-x64\VoicemeterFix.AssemblyInfoInputs.cache
+D:\Github Repos\Voicemeter-CracklingFix\VoicemeterFix\obj\Release\net6.0-windows\win-x64\VoicemeterFix.AssemblyInfo.cs
+D:\Github Repos\Voicemeter-CracklingFix\VoicemeterFix\obj\Release\net6.0-windows\win-x64\VoicemeterFix.csproj.CoreCompileInputs.cache
+D:\Github Repos\Voicemeter-CracklingFix\VoicemeterFix\obj\Release\net6.0-windows\win-x64\VoicemeterFix.dll
+D:\Github Repos\Voicemeter-CracklingFix\VoicemeterFix\obj\Release\net6.0-windows\win-x64\refint\VoicemeterFix.dll
+D:\Github Repos\Voicemeter-CracklingFix\VoicemeterFix\obj\Release\net6.0-windows\win-x64\VoicemeterFix.pdb
+D:\Github Repos\Voicemeter-CracklingFix\VoicemeterFix\obj\Release\net6.0-windows\win-x64\VoicemeterFix.genruntimeconfig.cache
+D:\Github Repos\Voicemeter-CracklingFix\VoicemeterFix\obj\Release\net6.0-windows\win-x64\ref\VoicemeterFix.dll

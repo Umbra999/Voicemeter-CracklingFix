@@ -1,0 +1,18 @@
+C:\Users\Umbra\source\repos\VoicemeterFix\VoicemeterFix\bin\Release\net6.0\win-x64\VoicemeterFix.exe
+C:\Users\Umbra\source\repos\VoicemeterFix\VoicemeterFix\bin\Release\net6.0\win-x64\VoicemeterFix.deps.json
+C:\Users\Umbra\source\repos\VoicemeterFix\VoicemeterFix\bin\Release\net6.0\win-x64\VoicemeterFix.runtimeconfig.json
+C:\Users\Umbra\source\repos\VoicemeterFix\VoicemeterFix\bin\Release\net6.0\win-x64\VoicemeterFix.dll
+C:\Users\Umbra\source\repos\VoicemeterFix\VoicemeterFix\bin\Release\net6.0\win-x64\VoicemeterFix.pdb
+C:\Users\Umbra\source\repos\VoicemeterFix\VoicemeterFix\obj\Release\net6.0\win-x64\VoicemeterFix.csproj.AssemblyReference.cache
+C:\Users\Umbra\source\repos\VoicemeterFix\VoicemeterFix\obj\Release\net6.0\win-x64\VoicemeterFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umbra\source\repos\VoicemeterFix\VoicemeterFix\obj\Release\net6.0\win-x64\VoicemeterFix.AssemblyInfoInputs.cache
+C:\Users\Umbra\source\repos\VoicemeterFix\VoicemeterFix\obj\Release\net6.0\win-x64\VoicemeterFix.AssemblyInfo.cs
+C:\Users\Umbra\source\repos\VoicemeterFix\VoicemeterFix\obj\Release\net6.0\win-x64\VoicemeterFix.csproj.CoreCompileInputs.cache
+C:\Users\Umbra\source\repos\VoicemeterFix\VoicemeterFix\obj\Release\net6.0\win-x64\VoicemeterFix.dll
+C:\Users\Umbra\source\repos\VoicemeterFix\VoicemeterFix\obj\Release\net6.0\win-x64\refint\VoicemeterFix.dll
+C:\Users\Umbra\source\repos\VoicemeterFix\VoicemeterFix\obj\Release\net6.0\win-x64\VoicemeterFix.pdb
+C:\Users\Umbra\source\repos\VoicemeterFix\VoicemeterFix\obj\Release\net6.0\win-x64\VoicemeterFix.genruntimeconfig.cache
+C:\Users\Umbra\source\repos\VoicemeterFix\VoicemeterFix\obj\Release\net6.0\win-x64\ref\VoicemeterFix.dll
+D:\Github Repos\Voicemeter-CracklingFix\VoicemeterFix\obj\Release\net6.0\win-x64\VoicemeterFix.dll
+D:\Github Repos\Voicemeter-CracklingFix\VoicemeterFix\obj\Release\net6.0\win-x64\refint\VoicemeterFix.dll
+D:\Github Repos\Voicemeter-CracklingFix\VoicemeterFix\obj\Release\net6.0\win-x64\VoicemeterFix.pdb

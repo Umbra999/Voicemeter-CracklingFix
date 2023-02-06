@@ -1,0 +1,2 @@
+D:\Github Repos\Voicemeter-CracklingFix\VoicemeterFix\bin\Release\net6.0\publish\win-x64\VoicemeterFix.pdb
+D:\Github Repos\Voicemeter-CracklingFix\VoicemeterFix\bin\Release\net6.0\publish\win-x64\VoicemeterFix.exe
