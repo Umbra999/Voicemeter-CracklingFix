@@ -1,2 +1,0 @@
-C:\Users\Umbra\source\repos\VoicemeterFix\VoicemeterFix\bin\Release\net6.0\publish\win-x64\VoicemeterFix.pdb
-C:\Users\Umbra\source\repos\VoicemeterFix\VoicemeterFix\bin\Release\net6.0\publish\win-x64\VoicemeterFix.exe
